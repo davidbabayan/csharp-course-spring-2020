@@ -1,0 +1,7 @@
+First Line of the text! Intial Commit!
+
+New Second Line!
+
+Second Line!
+
+Third line!
